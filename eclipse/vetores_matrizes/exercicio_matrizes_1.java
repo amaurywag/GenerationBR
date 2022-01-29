@@ -2,7 +2,7 @@ package vetores;
 
 import java.util.Scanner;
 
-public class exercicio_matrizes_2 {
+public class exercicio_matrizes_1 {
 
 	public static void main(String[] args) {
 		// Leia uma matriz 3 x 3, conte e escreva quantos valores maiores que 10 ela possui
